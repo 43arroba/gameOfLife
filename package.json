@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -u tdd tests"
+    "test": "mocha -u tdd tests/unit"
   },
   "repository": {
     "type": "git",
