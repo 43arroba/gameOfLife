@@ -15,6 +15,8 @@ class Cell{
         });
         if(alife > 1){
             this.life = true;
+        }else{
+            this.life = false;
         }
     }
 }
